@@ -8,9 +8,8 @@ LICENSE:[MIT](./license.md)
 ---
 
 ### Содержание:
-1. Регистрация на github.com и создание проекта
-2. [Создание проекта на github.com]( /registrationandcreateproject.md)
-3. Основные команды
+1. [Регистрация на github.com и создание проекта]( /registrationandcreateproject.md)
+2. Основные команды
 4. git config
 5. git init
 6. [git add](./add.md)
