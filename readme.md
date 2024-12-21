@@ -1,4 +1,5 @@
 # Инструкция по работе с GIT
+__GitHub__ — крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки
 
 LICENSE:[MIT](./license.md)
 
@@ -7,8 +8,17 @@ LICENSE:[MIT](./license.md)
 ---
 
 ### Содержание:
-1.
-2. [git add](./add.md)
+1. Регистрация на github.com и создание проекта
+2. [Создание проекта на github.com]( /registrationandcreateproject.md)
+3. Основные команды
+4. git config
+5. git init
+6. [git add](./add.md)
+7. git commit
+8. git clone
+9. git pull
+10. git push
+
 
 ---
 
